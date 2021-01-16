@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "This is my first webhook"
+echo "This is my first webhook trigger"
